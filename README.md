@@ -1,16 +1,22 @@
+AI-Powered Document Search and Answering System-
 
-SevaDoc: AI-Powered Document Search and Answering System-
-
-SevaDoc is an AI-powered document search and answering system built with Streamlit, leveraging Google's Generative AI Embeddings and FAISS vector search. It provides accurate responses to user queries based on a corpus of documents.
+SevaDoc is document search and answering system built with Streamlit, leveraging Google's Generative AI Embeddings and FAISS vector search. It provides accurate responses to user queries based on a corpus of documents.
 ![the opening image](https://github.com/stutichaurasia238/Gemma_PDF_chatbot_app/assets/145449188/5667270d-4437-4f0c-8192-97512f17a79f)
-
-
 
 Features-
 * Document Search: Find relevant documents based on user queries.
+  ![image_readme](https://github.com/stutichaurasia238/Gemma_PDF_chatbot_app/assets/145449188/2269b70d-56aa-4dfd-acc3-19bfd4251f74)
+
 * Answer Generation: Generate accurate answers from searched documents.
+![image2 readme](https://github.com/stutichaurasia238/Gemma_PDF_chatbot_app/assets/145449188/0482ea48-0112-47b8-9c37-1c96e2743711)
+
+  
 * Document Similarity Search: Explore similar documents to generated answers.
+![image3 readme](https://github.com/stutichaurasia238/Gemma_PDF_chatbot_app/assets/145449188/1607b3dd-0492-48e6-9ed9-4bb0cb9f4009)
+
 * Vector Embedding: Use FAISS vector search for fast document retrieval.
+  ![image4 readme](https://github.com/stutichaurasia238/Gemma_PDF_chatbot_app/assets/145449188/1758b692-e974-4b27-b133-7a1d07169ebe)
+
 
 Getting Started-
 1. Clone the Repository : git clone https://github.com/your-username/sevadoc.git
