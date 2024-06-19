@@ -2,6 +2,9 @@
 SevaDoc: AI-Powered Document Search and Answering System-
 
 SevaDoc is an AI-powered document search and answering system built with Streamlit, leveraging Google's Generative AI Embeddings and FAISS vector search. It provides accurate responses to user queries based on a corpus of documents.
+![the opening image](https://github.com/stutichaurasia238/Gemma_PDF_chatbot_app/assets/145449188/5667270d-4437-4f0c-8192-97512f17a79f)
+
+
 
 Features-
 * Document Search: Find relevant documents based on user queries.
