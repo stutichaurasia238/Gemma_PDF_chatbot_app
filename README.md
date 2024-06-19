@@ -30,3 +30,16 @@ export GOOGLE_API_KEY=your-google-api-key
 * Click "Documents Embedding" to initialize the vector store.
 * Click "Ask" to get an answer based on the uploaded documents.
 
+8. Recommendations:
+* Use a substantial document corpus to enhance answer accuracy.
+* Experiment with different vector embedding models for optimal performance.
+* Integrate SevaDoc with other AI tools for advanced document analysis.
+
+9. Troubleshooting:
+* Check Streamlit logs for application errors.
+* Ensure correct API keys and environment variables.
+* Optimize vector embedding or reduce document corpus size for performance
+
+10. Contributing:
+SevaDoc welcomes community contributions via pull requests.
+
