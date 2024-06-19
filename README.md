@@ -1,4 +1,3 @@
-# Gemma_PDF_chatbot_app
 
 SevaDoc: AI-Powered Document Search and Answering System-
 
@@ -15,7 +14,15 @@ Getting Started-
 
 2. Install Dependencies : pip install -r requirements.txt
 
-3. Set Environment Variables : 
+3. Libraries:
+* Streamlit: For its ease of use and flexibility in building and deploying web applications.
+* LangChain Library: For its ability to generate accurate and relevant answers based on the searched documents.
+* FAISS: For its fast and efficient document retrieval capabilities.
+* Google's Generative AI Embeddings: For its ability to generate high-quality vector embeddings of documents.
+* Groq: For its ability to efficiently query and index the document corpus.
+* Gemma model: For its ability to generate accurate and relevant answers.
+    
+4. Set Environment Variables : 
 export GROQ_API_KEY=your-groq-api-key
 export GOOGLE_API_KEY=your-google-api-key
 (Replace your-groq-api-key and your-google-api-key with your actual API keys)
@@ -42,4 +49,3 @@ export GOOGLE_API_KEY=your-google-api-key
 
 10. Contributing:
 SevaDoc welcomes community contributions via pull requests.
-
